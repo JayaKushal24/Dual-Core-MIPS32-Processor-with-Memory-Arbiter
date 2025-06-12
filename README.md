@@ -5,7 +5,7 @@ This repository contains a Verilog implementation of a dual-core MIPS32 processo
 
 ## Project Origin
 
-**This project is an extension of my [Single Cycle MIPS32 Processor project](https://github.com/JayaKushal24/Dual-Core-MIPS32-Processor-with-Memory-Arbiter) on GitHub.**  
+**This project is an extension of my [Single Cycle MIPS32 Processor project](https://github.com/JayaKushal24/RTL_Single-Cycle-MIPS32-Processor) on GitHub.**  
 The dual-core design builds upon the original single-cycle MIPS32 core, adding a second core and a memory arbiter to enable safe shared memory access and true multicore operation.
 
 
